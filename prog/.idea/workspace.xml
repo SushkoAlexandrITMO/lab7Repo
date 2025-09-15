@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e2e01ea-81dc-4938-a50e-b61055546132" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/CommandMennager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandClear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandCountByAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandExecute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandExit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandFilterFullName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandHelp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandRemove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandReorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandShow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandShuffle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/ComandMennager/Commands/CommandUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/FileMennager/Adapters/DateAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/FileMennager/Adapters/FloatAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/FileMennager/Adapters/IntAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/FileMennager/Adapters/LongAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/FileMennager/FileMenager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Model/Addres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Model/Coordinates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Model/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Model/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Model/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Model/OrganizationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Data/Stack/StackMennager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/IO/InputOutMennager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/IO/transfer/FileRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/IO/transfer/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/IO/transfer/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/IO/transfer/StackRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programm/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSave.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testSave.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab6" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SushkoAlexandrITMO&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SushkoAlexandrITMO/lab6Repo&quot;,
+    &quot;accountId&quot;: &quot;c436a83b-2ffb-4880-9fc9-a17329dce2b2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2thehRQhaotP8SqutDMZFT0yJ0o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Batch.gradlew.executor": "Run",
+    "Gradle.Build prog.executor": "Run",
+    "Gradle.prog [:Client.ClientMain.main()].executor": "Run",
+    "Gradle.prog [:Server.ServerMain.main()].executor": "Run",
+    "Gradle.prog [:Test.main()].executor": "Run",
+    "Gradle.prog [:org.Test.main()].executor": "Run",
+    "Gradle.prog [:org.example.Main.main()].executor": "Run",
+    "Gradle.prog [:programm.IO.InputOutMennager.main()].executor": "Run",
+    "Gradle.prog [:programm.Main.main()].executor": "Run",
+    "Gradle.prog [buildAll].executor": "Run",
+    "Gradle.prog [buildNeeded].executor": "Run",
+    "Gradle.prog [build].executor": "Run",
+    "Gradle.prog [clientJar].executor": "Run",
+    "Gradle.prog [dependencies].executor": "Run",
+    "Gradle.prog [jar].executor": "Run",
+    "Gradle.prog [serverJar].executor": "Run",
+    "Gradle.prog [shadowJar].executor": "Run",
+    "Gradle.prog [shadowServerJar].executor": "Run",
+    "Gradle.prog [test].executor": "Run",
+    "Gradle.prog.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.gradlew.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sushk/Desktop/Институт/Лабы/Программирование/lab6/prog",
+    "onboarding.tips.debug.path": "C:/Users/sushk/Desktop/Институт/Лабы/Программирование/lab5/prog/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src\main\Client" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src\main\Server" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src\main\java" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src\main\Server" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src" />
+      <recent name="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\src\main\java\programm\Data\FileMennager" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Client.transfer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.prog [serverJar]">
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.ClientMain" />
+      <module name="java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prog [buildAll]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildAll" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="prog [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="prog [serverJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="serverJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="prog [shadowServerJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowServerJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="WORKING_DIRECTORY" value="C:\Users\sushk\Desktop\Институт\Лабы\Программирование\lab5\prog\build\libs" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gradlew" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/gradlew" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/sh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientMain" />
+      <item itemvalue="Gradle.prog [serverJar]" />
+      <item itemvalue="Gradle.prog [dependencies]" />
+      <item itemvalue="Gradle.prog [buildAll]" />
+      <item itemvalue="Gradle.prog [shadowServerJar]" />
+      <item itemvalue="Shell Script.gradlew" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.prog [serverJar]" />
+        <item itemvalue="Gradle.prog [buildAll]" />
+        <item itemvalue="Gradle.prog [dependencies]" />
+        <item itemvalue="Gradle.prog [shadowServerJar]" />
+        <item itemvalue="Application.ClientMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e2e01ea-81dc-4938-a50e-b61055546132" name="Changes" comment="" />
+      <created>1740808854484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740808854484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/lab6" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="programm.Data.Model.Organization" memberName="officialAddress" />
+        <PinnedItemInfo parentTag="Server.ComandMennager.Commands.CommandAdd" memberName="org" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$prog__buildAll_.ic" NAME="prog [buildAll] Coverage Results" MODIFIED="1746614895789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/prog$Main.ic" NAME="Main Coverage Results" MODIFIED="1742395238330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>programm.*</FILTER>
+    </SUITE>
+  </component>
+</project>
