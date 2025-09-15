@@ -33,7 +33,7 @@ public class StackMennager {
         this.fileMennager = fileMennager;
         this.ioMenager = simpleIOMenager;
         this.isLogsON = isLogsON;
-
+        /**
         ArrayList<Organization> result = fileMennager.addOrgsFromEnv(System.getenv("save"));
         if (result == null) {
             this.ioMenager.sendLog(new IORequest("При чтении файла из переменной окружения произошла ошибка.\n" +
@@ -42,6 +42,8 @@ public class StackMennager {
         } else {
             setAll(result);
         }
+        */
+
     }
 
     /**
